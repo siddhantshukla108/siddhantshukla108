@@ -14,7 +14,7 @@
 
 - 💥 My Portfolio 🚀 [abc.com](abc.com)
 
-- 👯 I’m looking to collaborate on [LinkedIn](abc.com)
+- 👯 I’m looking to collaborate on [LinkedIn]([abc.com](https://www.linkedin.com/feed/))
 
 - 📫 You can contact me at **shuklasiddhant365@gmail.com**
 
