@@ -22,8 +22,8 @@
 ---
 
 <h3 align="left">🌟 Featured Projects</h3>
-- [*Project Name*](https://github.com/siddhantshukla108/project-link) - A brief description of the project and its functionality.  
-- [*Another Project*](https://github.com/siddhantshukla108/project-link) - Another impactful project description here.  
+- [My-Portfolio](https://siddhantshukla108.github.io/My-Portfolio/) - My portfolio website is a responsive platform showcasing my skills, projects, and services as a full-stack developer. It includes sections for web design, competitive programming, UI design, and a downloadable CV, making it easy for visitors to explore my work and connect with me.  
+- [Food Store](https://github.com/siddhantshukla108/project-link) - Another impactful project description here.  
 
 ---
 
