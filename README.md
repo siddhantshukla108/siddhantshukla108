@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently diving deeper into *MERN and Machine Learning.*  
 
-- 🌐 *Portfolio*: [siddhantshukla.com](https://siddhantshukla-portfolio.netlify.app/)  
+- 🌐 *Portfolio*: [Siddhant Shukla](https://siddhantshukla-portfolio.netlify.app/)  
 
 - 👯 I’m looking to collaborate on *open-source projects and innovative startups.*  
 
@@ -31,7 +31,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/siddhantshukla108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhantshukla108" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/siddhant-shukla-182420298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant shukla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/siddhant-shukla108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddhant shukla" height="30" width="40" /></a>
 <a href="https://fb.com/siddhant.shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="siddhant shukla" height="30" width="40" /></a>
 <a href="https://instagram.com/daringadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_daring_adi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@reel_is_real" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
