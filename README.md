@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently diving deeper into *MERN and Machine Learning.*  
 
-- 🌐 *Portfolio*: [siddhantshukla.com](https://siddhantshukla.com)  
+- 🌐 *Portfolio*: [siddhantshukla.com](https://siddhantshukla-portfolio.netlify.app/)  
 
 - 👯 I’m looking to collaborate on *open-source projects and innovative startups.*  
 
@@ -22,7 +22,7 @@
 ---
 
 <h3 align="left">🌟 Featured Projects</h3>
-🎯 My-Portfolio ➡ (https://siddhantshukla108.github.io/My-Portfolio/) - My portfolio website is a responsive platform showcasing my skills, projects, and services as a full-stack developer. It includes sections for web design, competitive programming, UI design, and a downloadable CV, making it easy for visitors to explore my work and connect with me.  
+🎯 My-Portfolio ➡ (https://siddhantshukla-portfolio.netlify.app) - My portfolio website is a responsive platform showcasing my skills, projects, and services as a full-stack developer. It includes sections for web design, competitive programming, UI design, and a downloadable CV, making it easy for visitors to explore my work and connect with me.  
 
 🎯 Food Store ➡ (https://siddhantshukla108.github.io/Food-Store/) - My food store website is a responsive and interactive platform built with HTML, CSS, and JavaScript. It showcases a variety of food items with a user-friendly interface, allowing customers to explore menus, view details, and navigate seamlessly.  
 
