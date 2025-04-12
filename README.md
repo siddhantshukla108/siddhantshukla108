@@ -9,22 +9,18 @@
 
 <p align="left"> <a href="https://twitter.com/siddhantshukla108" target="blank"><img src="https://img.shields.io/twitter/follow/siddhantshukla108?logo=twitter&style=for-the-badge" alt="siddhantshukla108" /></a> </p>
 
-- 🔭 I’m currently diving deeper into *MERN and Machine Learning.*  
-
-- 🌐 *Portfolio*: [Siddhant Shukla](https://siddhantshukla-portfolio.netlify.app/)  
-
-- 👯 I’m looking to collaborate on *open-source projects and innovative startups.*  
-
-- 📫 Reach me at *shuklasiddhant365@gmail.com*  
-
-- ⚡ Fun fact: *I often find inspiration for my projects while gaming!*  
+- 🔭 I’m currently diving deeper into MERN and Machine Learning.  
+- 🌐 Portfolio: [Siddhant Shukla](https://siddhantshukla-portfolio.netlify.app/)  
+- 👯 I’m looking to collaborate on open-source projects and innovative startups.  
+- 📫 Reach me at shuklasiddhant365@gmail.com  
+- ⚡ Fun fact: I often find inspiration for my projects while gaming!  
 
 ---
 
 <h3 align="left">🌟 Featured Projects</h3>
-🎯 My-Portfolio ➡ (https://siddhantshukla-portfolio.netlify.app) - My portfolio website is a responsive platform showcasing my skills, projects, and services as a full-stack developer. It includes sections for web design, competitive programming, UI design, and a downloadable CV, making it easy for visitors to explore my work and connect with me.  
+🎯 My-Portfolio ➡ [Link](https://siddhantshukla-portfolio.netlify.app) - A responsive platform showcasing my skills, projects, and services as a full-stack developer.  
 
-🎯 Food Store ➡ (https://siddhantshukla108.github.io/Food-Store/) - My food store website is a responsive and interactive platform built with HTML, CSS, and JavaScript. It showcases a variety of food items with a user-friendly interface, allowing customers to explore menus, view details, and navigate seamlessly.  
+🎯 Food Store ➡ [Link](https://siddhantshukla108.github.io/Food-Store/) - A responsive and interactive food store built using HTML, CSS, and JavaScript.  
 
 ---
 
@@ -40,6 +36,10 @@
 <a href="https://codeforces.com/profile/siddhantshukla108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/siddhantshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a>
+</p>
+
+<p align="left">
+<a href="https://www.buymeacoffee.com/siddhantshukla" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" width="170"></a>
 </p>
 
 ---
@@ -64,7 +64,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhantshukla108&show_icons=true&locale=en" alt="siddhantshukla108" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantshukla108&" alt="siddhantshukla108" /></p>
-
-
-
-
