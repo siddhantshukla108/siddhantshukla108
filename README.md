@@ -1,4 +1,4 @@
-![logo](https://github.com/siddhantshukla108/siddhantshukla108/blob/main/Github%20Banner.png)
+![logo](https://github.com/siddhantshukla108/siddhantshukla108/blob/main/cp%20(1).jpeg)
 
 <h1 align="center">Howdy 👋, This is Siddhant Shukla</h1>
 <h3 align="center">A passionate Full-Stack MERN Developer, skilled in Java, DSA, and Competitive Programming (CP).</h3>
