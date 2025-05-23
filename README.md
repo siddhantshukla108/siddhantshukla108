@@ -17,7 +17,7 @@
 
 - 📫 Reach me at shuklasiddhant365@gmail.com  
 
-- ⚡ Fun fact: I often find inspiration for my projects while gaming!  
+- ⚡ Fun fact: My code doesn't always compile, but when it does, I don't know why🧐.. 
 
 - ☕ Support me: [Buy Me a Coffee](https://www.buymeacoffee.com/siddhantshukla)
 
