@@ -103,12 +103,10 @@
 
 ---
 
----
-
 ### 📅 GitHub Contribution Calendar
 
 <p align="center">
   <a href="https://github.com/siddhantshukla108">
-    <img src="https://ghchart.rshah.org/ff69b4/siddhantshukla108" alt="Siddhant Shukla's Github chart" />
+    <img src="https://ghchart.rshah.org/siddhantshukla108" alt="Siddhant Shukla's GitHub chart" />
   </a>
 </p>
