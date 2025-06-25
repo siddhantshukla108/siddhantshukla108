@@ -107,6 +107,6 @@
 
 <p align="center">
   <a href="https://github.com/siddhantshukla108">
-    <img src="https://ghchart.rshah.org/siddhantshukla108" alt="Siddhant Shukla's GitHub chart" />
+    <img src="https://ghchart.rshah.org/siddhantshukla108" alt="Siddhant Shukla's GitHub chart" height="180" />
   </a>
 </p>
