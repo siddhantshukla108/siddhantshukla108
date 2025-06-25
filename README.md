@@ -85,6 +85,16 @@
 
 ---
 
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=siddhantshukla108&theme=tokyonight&no-frame=true&title=Stars,Followers,Commit,Issues,PullRequest,Repositories,Contributions" />
+</p>
+
+---
+
 ### 🔥 Contribution Graph
 
 <p align="center">
@@ -93,8 +103,8 @@
 
 ---
 
-### 🏆 GitHub Achievements
+### ✅ GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddhantshukla108&theme=tokyonight&no-frame=true&title=Stars,Followers,Commit,Issues,PullRequest,Repositories,Contributions" />
+  <img src="https://github.com/siddhantshukla108/siddhantshukla108/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
