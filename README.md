@@ -25,11 +25,6 @@
 - ☕ Support me: [Buy Me a Coffee](https://www.buymeacoffee.com/siddhantshukla)
 - ⚡  Fun fact: My code doesn't always compile, but when it does, I don't know why🧐..
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Theme-Dark--Mode-000000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Theme-Light--Mode-ffffff?style=for-the-badge&logo=github&logoColor=black" />
-</p>
-
 ---
 
 ### 🚀 Featured Projects
