@@ -45,7 +45,9 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://x.com/siddhant_shuk1a"><img src="https://skillicons.dev/icons?i=twitter" width="35" /></a>
+<a href="https://x.com/siddhant_shuk1a">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/X_logo_2023.svg" width="35" />
+</a>
   <a href="https://www.linkedin.com/in/siddhant-shukla108/"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a>
   <a href="https://instagram.com/daringadi"><img src="https://skillicons.dev/icons?i=instagram" width="35" /></a>
   <a href="https://www.youtube.com/@reel_is_real" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" width="35" /></a>
@@ -55,21 +57,28 @@
   <a href="https://leetcode.com/u/siddhantshukla108/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35" /></a>
 </p>
 
----
+--- 
 
 ### 🧰 Tech Stack
 
 <p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
   <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" width="40"/></a>
   <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="40"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="40"/></a>
   <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
+  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
+  <a href="https://mongoosejs.com/"><img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" height="28"/></a>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
+  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
 </p>
+
 
 ---
 
@@ -101,12 +110,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantshukla108&theme=tokyonight&area=true" />
 </p>
 
----
-
-### 📅 GitHub Contribution Calendar
-
-<p align="center">
-  <a href="https://github.com/siddhantshukla108">
-    <img src="https://ghchart.rshah.org/siddhantshukla108" alt="Siddhant Shukla's GitHub chart" height="180" />
-  </a>
-</p>
