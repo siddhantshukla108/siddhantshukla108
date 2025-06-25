@@ -34,8 +34,8 @@
 
 ### 🚀 Featured Projects
 
-- 🎯 **[My Portfolio](https://siddhantshukla-portfolio.netlify.app/)**  
-  A responsive site to showcase my full-stack dev profile, UI designs & CV.
+- 🎯 **[Supriya Bot](https://supriya-bot.netlify.app/)**  
+  An AI-powered personal assistant chatbot, built for emotionally intelligent conversation.
 
 - 🎯 **[Food Store](https://siddhantshukla108.github.io/Food-Store/)**  
   A visually engaging, responsive food store built with HTML/CSS/JS.
