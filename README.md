@@ -1,83 +1,79 @@
 ![logo](https://github.com/siddhantshukla108/siddhantshukla108/blob/main/cp%20(1).jpeg)
 
-<h1 align="center">Howdy 👋, I'm Siddhant Shukla</h1>
-<h3 align="center">💻 A Passionate Full-Stack MERN Developer | Java Enthusiast | DSA & CP Explorer</h3>
+<h1 align="center">👋 Howdy! I'm Siddhant Shukla</h1>
+<h3 align="center">💻 Full-Stack MERN Developer | Java & DSA Enthusiast | CP Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddhantshukla108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=siddhantshukla108&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
+  <a href="https://x.com/siddhant_shuk1a" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/siddhantshukla108?logo=twitter&style=flat-square&color=1da1f2" />
+  </a>
 </p>
 
-<div align="center">
-  <a href="https://x.com/siddhant_shuk1a" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/siddhantshukla108?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</div>
-
-<img align="right" alt="coding-gif" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
 ---
 
-### 🌱 About Me
+### 🌌 About Me
 
-- 🔭 Currently diving deep into **MERN stack** & exploring **Machine Learning**  
-- 🌐 Portfolio: [Visit My Site](https://siddhantshukla-portfolio.netlify.app/)  
-- 👯 Looking to collaborate on open-source and creative tech startups  
-- 📫 Reach me at: **shuklasiddhant365@gmail.com**  
-- ⚡ Fun fact: *My code doesn't always compile, but when it does, I don't know why* 🧐  
+- 🔭 Currently exploring **MERN stack** and **Machine Learning**
+- 🌐 Portfolio: [Siddhant Shukla](https://siddhantshukla-portfolio.netlify.app/)
+- 👯 Open to collaborating on **open-source** and **startup projects**
+- 📫 Reach me: **shuklasiddhant365@gmail.com**
+- ⚡ Fun fact: *My code compiles… occasionally.* 😅
 - ☕ Support me: [Buy Me a Coffee](https://www.buymeacoffee.com/siddhantshukla)
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🎯 [My Portfolio](https://siddhantshukla-portfolio.netlify.app)  
-A responsive site to showcase my full-stack skills, UI/UX designs, and downloadable resume.
+- 🎯 **[My Portfolio](https://siddhantshukla-portfolio.netlify.app/)**  
+  A responsive site to showcase my full-stack dev profile, UI designs & CV.
 
-#### 🎯 [Food Store](https://siddhantshukla108.github.io/Food-Store/)  
-A responsive and interactive web app built using HTML, CSS, and JS.
+- 🎯 **[Food Store](https://siddhantshukla108.github.io/Food-Store/)**  
+  A visually engaging, responsive food store built with HTML/CSS/JS.
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://x.com/siddhant_shuk1a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" /></a>
-<a href="https://www.linkedin.com/in/siddhant-shukla108/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" /></a>
-<a href="https://fb.com/siddhant.shukla"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30" /></a>
-<a href="https://instagram.com/daringadi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="30" /></a>
-<a href="https://www.youtube.com/@reel_is_real"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" /></a>
-<a href="https://www.codechef.com/users/siddhantshu108"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="30" /></a>
-<a href="https://www.hackerrank.com/shuklasiddhant31"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="30" /></a>
-<a href="https://codeforces.com/profile/siddhantshukla108"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="30" /></a>
-<a href="https://leetcode.com/u/siddhantshukla108/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" /></a>
+  <a href="https://x.com/siddhant_shuk1a"><img src="https://skillicons.dev/icons?i=twitter" width="35" /></a>
+  <a href="https://www.linkedin.com/in/siddhant-shukla108/"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a>
+  <a href="https://instagram.com/daringadi"><img src="https://skillicons.dev/icons?i=instagram" width="35" /></a>
+  <a href="https://www.youtube.com/@reel_is_real"><img src="https://skillicons.dev/icons?i=youtube" width="35" /></a>
+  <a href="https://www.codechef.com/users/siddhantshu108" title="CodeChef Profile"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" width="30" style="filter:invert(1);" /></a>
+  <a href="https://www.hackerrank.com/shuklasiddhant31"><img src="https://skillicons.dev/icons?i=hackerrank" width="35" /></a>
+  <a href="https://codeforces.com/profile/siddhantshukla108"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="35" /></a>
+  <a href="https://leetcode.com/u/siddhantshukla108/"><img src="https://skillicons.dev/icons?i=leetcode" width="35" /></a>
 </p>
 
 ---
 
 ### 💻 Tech Stack
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Dark Mode)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhantshukla108&show_icons=true&locale=en&layout=compact" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhantshukla108&show_icons=true&locale=en" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantshukla108" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhantshukla108&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhantshukla108&show_icons=true&locale=en&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhantshukla108&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
@@ -85,5 +81,5 @@ A responsive and interactive web app built using HTML, CSS, and JS.
 ### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddhantshukla108&theme=gruvbox&no-frame=true&title=Stars,Followers,Commit,Issues,PullRequest,Repositories,Contributions" />
+  <img src="https://github-profile-trophy.vercel.app/?username=siddhantshukla108&theme=tokyonight&no-frame=true&title=Stars,Followers,Commit,Issues,PullRequest,Repositories,Contributions" />
 </p>
