@@ -103,8 +103,12 @@
 
 ---
 
-### ✅ GitHub Contribution Calendar
+---
+
+### 📅 GitHub Contribution Calendar
 
 <p align="center">
-  <img src="https://github.com/siddhantshukla108/siddhantshukla108/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <a href="https://github.com/siddhantshukla108">
+    <img src="https://ghchart.rshah.org/ff69b4/siddhantshukla108" alt="Siddhant Shukla's Github chart" />
+  </a>
 </p>
