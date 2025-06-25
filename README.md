@@ -23,7 +23,7 @@
 - 👯 Open to collaborating on **open-source** and **startup projects**
 - 📫 Reach me: **shuklasiddhant365@gmail.com**
 - ☕ Support me: [Buy Me a Coffee](https://www.buymeacoffee.com/siddhantshukla)
-- ⚡ Fun fact: *My code compiles… occasionally.* 😅
+- ⚡  Fun fact: My code doesn't always compile, but when it does, I don't know why🧐..
 
 <p align="center">
   <img src="https://img.shields.io/badge/Theme-Dark--Mode-000000?style=for-the-badge&logo=github&logoColor=white" />
