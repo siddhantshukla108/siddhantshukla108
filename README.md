@@ -45,14 +45,13 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://x.com/siddhant_shuk1a">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/X_logo_2023.svg/32px-X_logo_2023.svg.png" width="35" />
-  </a>
+  <a href="https://x.com/siddhant_shuk1a" target="_blank">🖤 X (formerly Twitter)</a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/siddhant-shukla108/"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a>
   <a href="https://instagram.com/daringadi"><img src="https://skillicons.dev/icons?i=instagram" width="35" /></a>
-  <a href="https://www.youtube.com/@reel_is_real" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" width="35" /></a>
-  <a href="https://www.codechef.com/users/siddhantshu108" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="35" style="background:white; padding:4px; border-radius:5px;" /></a>
-  <a href="https://www.hackerrank.com/shuklasiddhant31" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="35" /></a>
+  <a href="https://www.youtube.com/@reel_is_real"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" width="35" /></a>
+  <a href="https://www.codechef.com/users/siddhantshu108"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="35" style="background:white; padding:4px; border-radius:5px;" /></a>
+  <a href="https://www.hackerrank.com/shuklasiddhant31"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="35" /></a>
   <a href="https://codeforces.com/profile/siddhantshukla108"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="35" /></a>
   <a href="https://leetcode.com/u/siddhantshukla108/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35" /></a>
 </p>
