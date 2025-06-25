@@ -1,7 +1,8 @@
 ![logo](https://github.com/siddhantshukla108/siddhantshukla108/blob/main/cp%20(1).jpeg)
 
-<h1 align="center">👋 Howdy! I'm Siddhant Shukla</h1>
-<h3 align="center">💻 Full-Stack MERN Developer | Java & DSA Enthusiast | CP Explorer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=F7503E&center=true&width=435&lines=👋+Howdy!+I'm+Siddhant+Shukla;💻+MERN+Dev+%7C+Java+%7C+DSA+%7C+CP+Enthusiast;Open+Source+%7C+Startup+Dreamer+%F0%9F%94%A5" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddhantshukla108&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
@@ -16,12 +17,19 @@
 
 ### 🌌 About Me
 
+> _"Building dreams in code, one bug at a time."_ — *Siddhant*
+
 - 🔭 Currently exploring **MERN stack** and **Machine Learning**
 - 🌐 Portfolio: [Siddhant Shukla](https://siddhantshukla-portfolio.netlify.app/)
 - 👯 Open to collaborating on **open-source** and **startup projects**
 - 📫 Reach me: **shuklasiddhant365@gmail.com**
-- ⚡ Fun fact: *My code compiles… occasionally.* 😅
 - ☕ Support me: [Buy Me a Coffee](https://www.buymeacoffee.com/siddhantshukla)
+- ⚡ Fun fact: *My code compiles… occasionally.* 😅
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Dark--Mode-000000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Theme-Light--Mode-ffffff?style=for-the-badge&logo=github&logoColor=black" />
+</p>
 
 ---
 
@@ -41,52 +49,32 @@
   <a href="https://x.com/siddhant_shuk1a"><img src="https://skillicons.dev/icons?i=twitter" width="35" /></a>
   <a href="https://www.linkedin.com/in/siddhant-shukla108/"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a>
   <a href="https://instagram.com/daringadi"><img src="https://skillicons.dev/icons?i=instagram" width="35" /></a>
-
-  <!-- ✅ YouTube -->
-  <a href="https://www.youtube.com/@reel_is_real" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" width="35" />
-  </a>
-
-  <!-- ✅ CodeChef -->
-  <a href="https://www.codechef.com/users/siddhantshu108" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="35" style="background:white; padding:4px; border-radius:5px;" />
-  </a>
-
-  <!-- ✅ HackerRank -->
-  <a href="https://www.hackerrank.com/shuklasiddhant31" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="35" />
-  </a>
-
-  <!-- ✅ Codeforces -->
-  <a href="https://codeforces.com/profile/siddhantshukla108">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="35" />
-  </a>
-
-  <!-- ✅ LeetCode -->
-  <a href="https://leetcode.com/u/siddhantshukla108/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35" />
-  </a>
+  <a href="https://www.youtube.com/@reel_is_real" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" width="35" /></a>
+  <a href="https://www.codechef.com/users/siddhantshu108" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="35" style="background:white; padding:4px; border-radius:5px;" /></a>
+  <a href="https://www.hackerrank.com/shuklasiddhant31" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="35" /></a>
+  <a href="https://codeforces.com/profile/siddhantshukla108"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="35" /></a>
+  <a href="https://leetcode.com/u/siddhantshukla108/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35" /></a>
 </p>
 
 ---
 
-### 💻 Tech Stack
+### 🧰 Tech Stack
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="40"/></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
+  <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" width="40"/></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="40"/></a>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats (Dark Mode)
+### 📈 GitHub Stats (Dark Mode)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhantshukla108&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
@@ -94,6 +82,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=siddhantshukla108&show_icons=true&locale=en&theme=tokyonight" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhantshukla108&theme=tokyonight&hide_border=false" />
+</p>
+
+---
+
+### 📌 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantshukla108&theme=tokyonight" />
 </p>
 
 ---
