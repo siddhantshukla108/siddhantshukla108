@@ -10,21 +10,27 @@
   </a>
 </p>
 
-<!-- ✅ Floating coding GIF -->
-<p align="right">
-  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-</p>
-
 ---
+
+<table>
+  <tr>
+    <td width="60%">
 
 ### 🌌 About Me
 
-- 🔭 Currently exploring **MERN stack** and **Machine Learning**
-- 🌐 Portfolio: [Siddhant Shukla](https://siddhantshukla-portfolio.netlify.app/)
-- 👯 Open to collaborating on **open-source** and **startup projects**
-- 📫 Reach me: **shuklasiddhant365@gmail.com**
-- ⚡ Fun fact: *My code compiles… occasionally.* 😅
-- ☕ Support me: [Buy Me a Coffee](https://www.buymeacoffee.com/siddhantshukla)
+- 🔭 Currently exploring **MERN stack** and **Machine Learning**  
+- 🌐 Portfolio: [Siddhant Shukla](https://siddhantshukla-portfolio.netlify.app/)  
+- 👯 Open to collaborating on **open-source** and **startup projects**  
+- 📫 Reach me: **shuklasiddhant365@gmail.com**  
+- ⚡ Fun fact: *My code compiles… occasionally.* 😅  
+- ☕ Support me: [Buy Me a Coffee](https://www.buymeacoffee.com/siddhantshukla)  
+
+    </td>
+    <td width="40%" align="center">
+      <img alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -44,28 +50,18 @@
   <a href="https://x.com/siddhant_shuk1a"><img src="https://skillicons.dev/icons?i=twitter" width="35" /></a>
   <a href="https://www.linkedin.com/in/siddhant-shukla108/"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a>
   <a href="https://instagram.com/daringadi"><img src="https://skillicons.dev/icons?i=instagram" width="35" /></a>
-
-  <!-- ✅ YouTube -->
   <a href="https://www.youtube.com/@reel_is_real" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_(2017).svg" width="35" />
   </a>
-
-  <!-- ✅ CodeChef -->
   <a href="https://www.codechef.com/users/siddhantshu108" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="35" style="background:white; padding:4px; border-radius:5px;" />
   </a>
-
-  <!-- ✅ HackerRank -->
   <a href="https://www.hackerrank.com/shuklasiddhant31" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="35" />
   </a>
-
-  <!-- ✅ Codeforces -->
   <a href="https://codeforces.com/profile/siddhantshukla108">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="35" />
   </a>
-
-  <!-- ✅ LeetCode -->
   <a href="https://leetcode.com/u/siddhantshukla108/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35" />
   </a>
