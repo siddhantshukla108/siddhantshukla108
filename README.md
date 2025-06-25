@@ -46,7 +46,7 @@
 
 <p align="left">
   <a href="https://x.com/siddhant_shuk1a">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/X_logo_2023.svg" width="35" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/X_logo_2023.svg/32px-X_logo_2023.svg.png" width="35" />
   </a>
   <a href="https://www.linkedin.com/in/siddhant-shukla108/"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a>
   <a href="https://instagram.com/daringadi"><img src="https://skillicons.dev/icons?i=instagram" width="35" /></a>
