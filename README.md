@@ -16,9 +16,9 @@
 
 ---
 
-## 🌌 About Me
 
 > _"Building dreams in code, one bug at a time."_ — *Siddhant*
+  ## 🌌 About Me
 
 - 🔭 Currently exploring **MERN stack** and **3D-React**
 - 🌐 Portfolio: [Siddhant Shukla](https://siddhantshukla-portfolio.netlify.app/)
