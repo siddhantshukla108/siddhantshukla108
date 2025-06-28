@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddhantshukla108&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
   <a href="https://x.com/siddhant_shuk1a" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/siddhantshukla108?logo=twitter&style=flat-square&color=1da1f2" />
+    <img src="https://img.shields.io/badge/follow%20@siddhant_shuk1a-1da1f2?style=flat-square&logo=x&logoColor=white" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 - 🌐 Portfolio: [Siddhant Shukla](https://siddhantshukla-portfolio.netlify.app/)
 - 👯 Open to collaborating on **open-source** and **startup projects**
 - 📫 Reach me: **shuklasiddhant365@gmail.com**
-- ☕ Support me: [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/siddhantshukla)
+- ☕ Support me:  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/siddhantshukla)
 - ⚡  Fun fact: My code doesn't always compile, but when it does, I don't know why🧐..
 
   
