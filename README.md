@@ -1,7 +1,9 @@
 ![logo](https://github.com/siddhantshukla108/siddhantshukla108/blob/main/cp%20(1).jpeg)
 
 <h1 align="center">👋 Howdy! I'm Siddhant Shukla</h1>
-<h3 align="center">💻 Full-Stack MERN Developer | Java & DSA Enthusiast | CP Explorer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=435&lines=Full-Stack+MERN+Developer;Java+%26+DSA+Enthusiast;Competitive+Programming+Explorer" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddhantshukla108&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
