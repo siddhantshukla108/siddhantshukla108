@@ -60,9 +60,8 @@
 ---
 
 ## 🧰 Tech Stack
-
 <p align="left">
-  <!-- Core Languages -->
+  <!-- Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img class="tech-icon" src="https://skillicons.dev/icons?i=html" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img class="tech-icon" src="https://skillicons.dev/icons?i=css" width="40"/></a>
   <a href="https://www.cprogramming.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=c" width="40"/></a>
@@ -91,6 +90,7 @@
   <a href="https://code.visualstudio.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=vscode" width="40"/></a>
   <a href="https://www.jetbrains.com/idea/"><img class="tech-icon" src="https://skillicons.dev/icons?i=idea" width="40"/></a>
 </p>
+
 
 ---
 
