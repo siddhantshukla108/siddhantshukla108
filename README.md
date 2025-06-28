@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/siddhant-shukla108/"><img src="https://skillicons.dev/icons?i=linkedin" width="35" /></a>
   <a href="https://instagram.com/daringadi"><img src="https://skillicons.dev/icons?i=instagram" width="35" /></a>
 <a href="https://www.youtube.com/@reel_is_real">
-  <img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
 </a>
   <a href="https://www.codechef.com/users/siddhantshu108"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="35" style="background:white; padding:4px;     border-radius:5px;" /></a>
   <a href="https://www.hackerrank.com/shuklasiddhant31"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="35" /></a>
