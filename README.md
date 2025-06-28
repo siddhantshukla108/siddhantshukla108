@@ -79,7 +79,8 @@
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
   <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40"/></a>
+  <a href="https://code.visualstudio.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=vscode" width="40"/></a>
+  <a href="https://www.jetbrains.com/idea/"><img class="tech-icon" src="https://skillicons.dev/icons?i=idea" width="40"/></a>
 </p>
 
 ---
