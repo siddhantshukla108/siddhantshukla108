@@ -61,25 +61,36 @@
 
 ## 🧰 Tech Stack
 
+<style>
+  .tech-icon {
+    transition: transform 0.2s ease;
+  }
+  .tech-icon:hover {
+    transform: scale(1.2);
+  }
+</style>
+
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
-  <a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" width="40"/></a>
-  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="40"/></a>
-  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="40"/></a>
-  <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
-  <a href="https://mongoosejs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="40" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
-  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img class="tech-icon" src="https://skillicons.dev/icons?i=html" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img class="tech-icon" src="https://skillicons.dev/icons?i=css" width="40"/></a>
+  <a href="https://www.cprogramming.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=c" width="40"/></a>
+  <a href="https://www.java.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=java" width="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img class="tech-icon" src="https://skillicons.dev/icons?i=javascript" width="40"/></a>
+  <a href="https://www.typescriptlang.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=typescript" width="40"/></a>
+  <a href="https://reactjs.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=react" width="40"/></a>
+  <a href="https://nextjs.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
+  <a href="https://nodejs.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
+  <a href="https://expressjs.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=express" width="40"/></a>
+  <a href="https://mongoosejs.com/">
+    <img class="tech-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="40" style="background:white; padding:6px; border-radius:8px;" />
+  </a>
+  <a href="https://www.mongodb.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
+  <a href="https://vitejs.dev/"><img class="tech-icon" src="https://skillicons.dev/icons?i=vite" width="40"/></a>
+  <a href="https://tailwindcss.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
+  <a href="https://www.python.org/"><img class="tech-icon" src="https://skillicons.dev/icons?i=python" width="40"/></a>
+  <a href="https://git-scm.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=git" width="40"/></a>
+  <a href="https://github.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://code.visualstudio.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=vscode" width="40"/></a>
 </p>
 
 ---
