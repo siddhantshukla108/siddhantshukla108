@@ -36,7 +36,7 @@
 ### 🚀 Featured Projects
 
 - 🎯 **[Supriya Bot](https://supriya-bot.netlify.app/)**  
-  An AI-powered personal assistant chatbot, built for emotionally intelligent conversation.
+  A region-based AI chatbot designed for emotionally intelligent, real-time conversations with personalized flair.
 
 - 🎯 **[Food Store](https://siddhantshukla108.github.io/Food-Store/)**  
   A visually engaging, responsive food store built with HTML/CSS/JS.
@@ -53,7 +53,7 @@
   <a href="https://www.codechef.com/users/siddhantshu108"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" width="35" style="background:white; padding:4px; border-radius:5px;" /></a>
   <a href="https://www.hackerrank.com/shuklasiddhant31"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="35" /></a>
   <a href="https://codeforces.com/profile/siddhantshukla108"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="35" /></a>
-  <a href="https://leetcode.com/u/siddhantshukla108/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35" /></a>
+  <a href="https://leetcode.com/siddhantshukla108/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35" /></a>
 </p>
 
 --- 
@@ -76,6 +76,9 @@
   <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="40"/></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="40"/></a>
 </p>
 
 ---
