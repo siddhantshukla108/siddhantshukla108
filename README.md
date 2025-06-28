@@ -14,7 +14,7 @@
 
 ---
 
-### 🌌 About Me
+## 🌌 About Me
 
 > _"Building dreams in code, one bug at a time."_ — *Siddhant*
 
@@ -22,10 +22,9 @@
 - 🌐 Portfolio: [Siddhant Shukla](https://siddhantshukla-portfolio.netlify.app/)
 - 👯 Open to collaborating on **open-source** and **startup projects**
 - 📫 Reach me: **shuklasiddhant365@gmail.com**
-- ☕ Support me:  [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/siddhantshukla)
-- ⚡  Fun fact: My code doesn't always compile, but when it does, I don't know why🧐..
+- ☕ Support me: [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/siddhantshukla)
+- ⚡ Fun fact: My code doesn't always compile, but when it does, I don't know why🧐..
 
-  
 <p align="center">
   <img src="https://img.shields.io/badge/Theme-Dark--Mode-000000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Theme-Light--Mode-ffffff?style=for-the-badge&logo=github&logoColor=black" />
@@ -33,7 +32,7 @@
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 - 🎯 **[Supriya Bot](https://supriya-bot.netlify.app/)**  
   A region-based AI chatbot designed for emotionally intelligent, real-time conversations with personalized flair.
@@ -43,7 +42,7 @@
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://x.com/siddhant_shuk1a"><img src="https://skillicons.dev/icons?i=twitter" width="35" /></a>
@@ -56,9 +55,9 @@
   <a href="https://leetcode.com/siddhantshukla108/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35" /></a>
 </p>
 
---- 
+---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
@@ -83,7 +82,7 @@
 
 ---
 
-### 📈 GitHub Stats (Dark Mode)
+## 📊 GitHub Stats (Dark Mode)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhantshukla108&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
@@ -95,7 +94,7 @@
 
 ---
 
-### 🏆 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=siddhantshukla108&theme=tokyonight&no-frame=true&title=Stars,Followers,Commit,Issues,PullRequest,Repositories,Contributions" />
@@ -103,9 +102,8 @@
 
 ---
 
-### 🔥 Contribution Graph
+## 🔥 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantshukla108&theme=tokyonight&area=true" />
 </p>
-
