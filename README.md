@@ -72,7 +72,9 @@
   <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
   <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="40"/></a>
-  <a href="https://mongoosejs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="40" /></a>
+  <a href="https://mongoosejs.com/">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" width="100" />
+  </a>
   <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/></a>
   <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" width="40"/></a>
   <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/></a>
