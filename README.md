@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Howdy! I'm Siddhant Shukla</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=500&lines=MERN+Stack+Specialist+%7C+Backend+Craftsman;Java+%26+DSA+Evangelist+%7C+System+Design+Thinker;Competitive+Programming+Gladiator+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=800&lines=MERN+Stack+Specialist+%7C+Backend+Craftsman;Java+%26+DSA+Evangelist+%7C+System+Design+Thinker;Competitive+Programming+Gladiator+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
