@@ -22,8 +22,9 @@
 - 🌐 Portfolio: [Siddhant Shukla](https://siddhantshukla-portfolio.netlify.app/)
 - 👯 Open to collaborating on **open-source** and **startup projects**
 - 📫 Reach me: **shuklasiddhant365@gmail.com**
-- ⚡  Fun fact: My code doesn't always compile, but when it does, I don't know why🧐..
 - ☕ Support me: [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/siddhantshukla)
+- ⚡  Fun fact: My code doesn't always compile, but when it does, I don't know why🧐..
+
   
 <p align="center">
   <img src="https://img.shields.io/badge/Theme-Dark--Mode-000000?style=for-the-badge&logo=github&logoColor=white" />
