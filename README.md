@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddhantshukla108&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
-<img src="https://hit.yhype.me/github/profile?account_id=191824558" alt="Profile Views" />
   <a href="https://x.com/siddhant_shuk1a" target="_blank">
     <img src="https://img.shields.io/badge/follow%20@siddhant_shuk1a-1da1f2?style=flat-square&logo=x&logoColor=white" />
   </a>
@@ -114,4 +113,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhantshukla108&theme=tokyonight&area=true" />
 </p>
 
+
+
+<img src="https://hit.yhype.me/github/profile?account_id=191824558" alt="YHYPE_Profile Views" />
 
