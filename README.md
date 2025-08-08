@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=siddhantshukla108&label=Profile%20views&color=ff69b4&style=flat-square" alt="Profile Views" />
-  ![Profile Views](https://hit.yhype.me/github/profile?account_id=191824558)
+  <img src="https://hit.yhype.me/github/profile?account_id=191824558" alt="Profile Hits" />
   <a href="https://x.com/siddhant_shuk1a" target="_blank">
     <img src="https://img.shields.io/badge/follow%20@siddhant_shuk1a-1da1f2?style=flat-square&logo=x&logoColor=white" />
   </a>
