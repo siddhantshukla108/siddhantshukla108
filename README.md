@@ -40,7 +40,7 @@
 - 🎯 **[Sanatan Charcha](https://satya-sanatan-charcha.netlify.app/)**  
   A full-stack MERN community discussion platform with JWT-based auth, nested post & reply system, keyword search, and a fully responsive UI across all devices.
   
-- 🎯 **[Gyan Manthan](https://gyan-manthan.netlify.app/)**  
+- 🎯 **[Gyan Manthan](https://gyan-manthan-one.vercel.app/)**  
   A full-stack AI-powered reading companion built with React 19, Node.js, and Groq AI — generating personalized reading plans across 5 plan types and 8 regional languages.
 
 ---
