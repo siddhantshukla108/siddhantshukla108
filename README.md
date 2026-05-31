@@ -37,11 +37,11 @@
 
 ## 🚀 Featured Projects
 
-- 🎯 **[Supriya Bot](https://supriya-bot.netlify.app/)**  
-  A region-based AI chatbot designed for emotionally intelligent, real-time conversations with personalized flair.
-
-- 🎯 **[Food Store](https://siddhantshukla108.github.io/Food-Store/)**  
-  A visually engaging, responsive food store built with HTML/CSS/JS.
+- 🎯 **[Sanatan Charcha](https://satya-sanatan-charcha.netlify.app/)**  
+  A full-stack MERN community discussion platform with JWT-based auth, nested post & reply system, keyword search, and a fully responsive UI across all devices.
+  
+- 🎯 **[Gyan Manthan](https://gyan-manthan.netlify.app/)**  
+  A full-stack AI-powered reading companion built with React 19, Node.js, and Groq AI — generating personalized reading plans across 5 plan types and 8 regional languages.
 
 ---
 
