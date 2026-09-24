@@ -42,31 +42,13 @@
 ## 🚀 Featured Projects
 
 - 🎯 **dv.interview-AI** · [Live](https://LIVE_LINK) · [Code](https://github.com/siddhantshukla108/REPO_NAME)  
-  A full-stack AI mock interview platform with voice interaction (Web Speech API), animated AI avatars, resume PDF parsing, and Technical/HR modes across easy, mid and hard difficulty. Llama 4 Maverick (via OpenRouter) generates questions and scores each answer on correctness, communication and confidence. Includes a Monaco Editor for live coding in JavaScript, Python, Java and C++, Razorpay payments with HMAC-SHA256 verification for a 3-tier credits system, a gamified badge system, Recharts analytics and PDF reports.  
-  **Stack:** React 19 · Node.js · Express.js · MongoDB · Firebase Auth · OpenRouter · Razorpay · Web Speech API
+  An AI mock interview platform with voice interaction, resume parsing, Technical/HR modes and per-answer scoring, plus a live coding editor and a credits system. Built with React 19, Node.js, MongoDB and OpenRouter.
 
 - 🎯 **[Satya Sanatan Charcha](https://satya-sanatan-charcha.netlify.app/)** · [Live](https://satya-sanatan-charcha.netlify.app/) · [Code](https://github.com/siddhantshukla108/REPO_NAME)  
-  A full-stack MERN community platform with 5-language localization (English, Hindi, Sanskrit, Tamil, Telugu), JWT + Google OAuth authentication, and role-based admin access. Features Charcha Sabha (8-channel discussion forum), Granthalaya (digital scripture library with PDF/image uploads), a UGC publishing pipeline, 30+ REST endpoints with dedicated rate limiting, and an Admin Command Center for moderation.  
-  **Stack:** React 19 · Node.js · Express.js · MongoDB · JWT · Google OAuth · i18next · Multer · Tailwind CSS
+  A MERN community platform in 5 languages with JWT and Google OAuth login, a multi-channel discussion forum, a digital scripture library and an admin moderation panel.
 
 - 🎯 **[Gyan Manthan](https://gyan-manthan-one.vercel.app/)** · [Live](https://gyan-manthan-one.vercel.app/) · [Code](https://github.com/siddhantshukla108/REPO_NAME)  
-  A full-stack AI-powered reading companion that generates personalized reading plans across 5 plan types and 8 languages (Hindi, Telugu, Tamil, Bengali, Spanish, French and more) using OpenRouter with a model fallback chain. Includes Firebase Authentication synced to MongoDB, rate limiting, and a responsive progress-tracking dashboard. Built independently during my IBM internship.  
-  **Stack:** React 19 · Node.js · Express.js · MongoDB · Firebase Auth · OpenRouter · Tailwind CSS v4 · Framer Motion
-
-- 🎯 **DeVyneTube Backend** · [Code](https://github.com/siddhantshukla108/REPO_NAME)  
-  A scalable REST API with modular MVC architecture for video uploads, HLS adaptive streaming via FFmpeg, likes, comments and subscriptions. Cursor-based pagination, filtering and full-text search cut query load by ~35%. Media is served through AWS S3 + CloudFront, 20+ routes are secured with JWT refresh tokens, Helmet and rate limiting, and the app is containerized with Docker.  
-  **Stack:** Node.js · Express.js · MongoDB · Mongoose · JWT · AWS S3 · CloudFront · FFmpeg · Docker
-
----
-
-## 💼 Experience
-
-- **Web Development Intern, IBM Developer Skills Network (via IBMCEP)** · Aug 2025  
-  Built Gyan Manthan end to end (frontend and backend) with React 19, Node.js, Express.js and MongoDB, integrating an AI model fallback chain, Firebase Auth and a Tailwind CSS v4 + Framer Motion dashboard.
-
-- **Freelance Web Developer** · 2025 – 2026  
-  - **Swastika Food & Beverages** ([Live](https://LIVE_LINK)): production e-commerce app with persistent cart, slug-based product catalog, recurring delivery subscription estimator and UPI/Card/NetBanking checkout (React 19, Tailwind CSS v4).
-  - **Roshani Beauty Salon** ([Live](https://LIVE_LINK)): responsive salon site with multi-field appointment booking, 6-category service catalog, Before/After gallery slider and testimonials (React 19, Tailwind CSS).
+  An AI reading companion that generates personalized reading plans across 5 plan types and 8 languages, with a progress-tracking dashboard. Built with React 19, Node.js, MongoDB and Firebase Auth.
 
 ---
 
