@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Howdy! I'm Siddhant Shukla</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=800&lines=Full-Stack+Developer+%28MERN%29+%7C+AI%2FML+Engineer+in+the+Making;LeetCode+Knight+%28Peak+1934%29+%7C+Infosys+Specialist+Programmer+L1;Java+%26+DSA+%7C+System+Design+Thinker+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=800&lines=Full-Stack+Developer+%28MERN%29+%7C+AI%2FML+Engineer+in+the+Making;LeetCode+Knight+%28Peak+1934%29+%7C+Infosys+Specialist+Programmer+L1;Java+%26+DSA+%7C+System+Design+Thinker+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,10 +22,9 @@
 > _"Building dreams in code, one bug at a time."_ — *Siddhant*
 
 - 🎓 B.Tech CSE (2023–2027) at United College of Engineering and Research, Prayagraj · CGPA 8.0
-- 💼 Selected as **Specialist Programmer – L1 (Trainee) at Infosys** through HackWithInfy 2026
 - 🧑‍💻 Former Web Development Intern at **IBM Developer Skills Network** (via IBMCEP); freelance web developer with live client projects
 - 🔭 Currently building **AI-powered full-stack apps** and growing towards an **AI/ML Engineer** role
-- ⚔️ **LeetCode Knight** (max rating 1934) · 750+ DSA problems solved · 37+ rated contests
+- 📝 Author of **4 research papers**
 - 🌐 Portfolio: [Siddhant Shukla](https://siddhantshukla-portfolio.netlify.app/)
 - 👯 Open to collaborating on **open-source** and **startup projects**
 - 📫 Reach me: **shuklasiddhant365@gmail.com**
@@ -54,21 +53,11 @@
 
 ## 🏅 Competitive Programming & Achievements
 
-- 🎖️ Selected for **Specialist Programmer – L1 (Trainee)** at Infosys via HackWithInfy 2026
-- 🟦 **LeetCode Knight**, max rating 1934
 - 🌍 **TCS CodeVita Season 13:** Top 5.2% globally (rank 7,654 of 146,922), advanced to Round 2
 - ⭐ **CodeChef:** 3-star, max rating 1603
 - ⭐ **HackerRank:** 5-star in Problem Solving
 - 🇮🇳 **AINCAT 2026 (Naukri Campus):** All India Rank 2540, top 1% among 3.5+ lakh participants
 - 📈 750+ DSA problems solved across platforms, 37+ rated contests
-
-<!--
-RESEARCH SECTION (optional, currently hidden). Remove the comment markers to show it.
-
-## 📄 Research
-
-- **Electricity demand forecasting with LightGBM** (IEEE-format paper, in progress): add title, venue/status and link here.
--->
 
 ---
 
@@ -131,7 +120,7 @@ RESEARCH SECTION (optional, currently hidden). Remove the comment markers to sho
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=siddhantshukla108&show_icons=true&locale=en&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=siddhantshukla108&theme=tokyonight&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=siddhantshukla108&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
