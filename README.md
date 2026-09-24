@@ -1,8 +1,8 @@
-![logo](https://github.com/siddhantshukla108/siddhantshukla108/blob/main/cp%20(1).jpeg)
+![logo](https://github.com/siddhantshukla108/siddhantshukla108/blob/main/cp%20%281%29.jpeg?raw=true)
 
 <h1 align="center">👋 Howdy! I'm Siddhant Shukla</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=800&lines=MERN+Stack+Specialist+%7C+Backend+Craftsman;Java+%26+DSA+Evangelist+%7C+System+Design+Thinker;Competitive+Programming+Gladiator+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFFF&width=800&lines=Full-Stack+Developer+%28MERN%29+%7C+AI%2FML+Engineer+in+the+Making;LeetCode+Knight+%28Peak+1934%29+%7C+Infosys+Specialist+Programmer+L1;Java+%26+DSA+%7C+System+Design+Thinker+%7C+Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,7 +21,11 @@
 
 > _"Building dreams in code, one bug at a time."_ — *Siddhant*
 
-- 🔭 Currently exploring **MERN stack** and **3D-React**
+- 🎓 B.Tech CSE (2023–2027) at United College of Engineering and Research, Prayagraj · CGPA 8.0
+- 💼 Selected as **Specialist Programmer – L1 (Trainee) at Infosys** through HackWithInfy 2026
+- 🧑‍💻 Former Web Development Intern at **IBM Developer Skills Network** (via IBMCEP); freelance web developer with live client projects
+- 🔭 Currently building **AI-powered full-stack apps** and growing towards an **AI/ML Engineer** role
+- ⚔️ **LeetCode Knight** (max rating 1934) · 750+ DSA problems solved · 37+ rated contests
 - 🌐 Portfolio: [Siddhant Shukla](https://siddhantshukla-portfolio.netlify.app/)
 - 👯 Open to collaborating on **open-source** and **startup projects**
 - 📫 Reach me: **shuklasiddhant365@gmail.com**
@@ -37,11 +41,52 @@
 
 ## 🚀 Featured Projects
 
-- 🎯 **[Sanatan Charcha](https://satya-sanatan-charcha.netlify.app/)**  
-  A full-stack MERN community discussion platform with JWT-based auth, nested post & reply system, keyword search, and a fully responsive UI across all devices.
-  
-- 🎯 **[Gyan Manthan](https://gyan-manthan-one.vercel.app/)**  
-  A full-stack AI-powered reading companion built with React 19, Node.js, and Groq AI — generating personalized reading plans across 5 plan types and 8 regional languages.
+- 🎯 **dv.interview-AI** · [Live](https://LIVE_LINK) · [Code](https://github.com/siddhantshukla108/REPO_NAME)  
+  A full-stack AI mock interview platform with voice interaction (Web Speech API), animated AI avatars, resume PDF parsing, and Technical/HR modes across easy, mid and hard difficulty. Llama 4 Maverick (via OpenRouter) generates questions and scores each answer on correctness, communication and confidence. Includes a Monaco Editor for live coding in JavaScript, Python, Java and C++, Razorpay payments with HMAC-SHA256 verification for a 3-tier credits system, a gamified badge system, Recharts analytics and PDF reports.  
+  **Stack:** React 19 · Node.js · Express.js · MongoDB · Firebase Auth · OpenRouter · Razorpay · Web Speech API
+
+- 🎯 **[Satya Sanatan Charcha](https://satya-sanatan-charcha.netlify.app/)** · [Live](https://satya-sanatan-charcha.netlify.app/) · [Code](https://github.com/siddhantshukla108/REPO_NAME)  
+  A full-stack MERN community platform with 5-language localization (English, Hindi, Sanskrit, Tamil, Telugu), JWT + Google OAuth authentication, and role-based admin access. Features Charcha Sabha (8-channel discussion forum), Granthalaya (digital scripture library with PDF/image uploads), a UGC publishing pipeline, 30+ REST endpoints with dedicated rate limiting, and an Admin Command Center for moderation.  
+  **Stack:** React 19 · Node.js · Express.js · MongoDB · JWT · Google OAuth · i18next · Multer · Tailwind CSS
+
+- 🎯 **[Gyan Manthan](https://gyan-manthan-one.vercel.app/)** · [Live](https://gyan-manthan-one.vercel.app/) · [Code](https://github.com/siddhantshukla108/REPO_NAME)  
+  A full-stack AI-powered reading companion that generates personalized reading plans across 5 plan types and 8 languages (Hindi, Telugu, Tamil, Bengali, Spanish, French and more) using OpenRouter with a model fallback chain. Includes Firebase Authentication synced to MongoDB, rate limiting, and a responsive progress-tracking dashboard. Built independently during my IBM internship.  
+  **Stack:** React 19 · Node.js · Express.js · MongoDB · Firebase Auth · OpenRouter · Tailwind CSS v4 · Framer Motion
+
+- 🎯 **DeVyneTube Backend** · [Code](https://github.com/siddhantshukla108/REPO_NAME)  
+  A scalable REST API with modular MVC architecture for video uploads, HLS adaptive streaming via FFmpeg, likes, comments and subscriptions. Cursor-based pagination, filtering and full-text search cut query load by ~35%. Media is served through AWS S3 + CloudFront, 20+ routes are secured with JWT refresh tokens, Helmet and rate limiting, and the app is containerized with Docker.  
+  **Stack:** Node.js · Express.js · MongoDB · Mongoose · JWT · AWS S3 · CloudFront · FFmpeg · Docker
+
+---
+
+## 💼 Experience
+
+- **Web Development Intern, IBM Developer Skills Network (via IBMCEP)** · Aug 2025  
+  Built Gyan Manthan end to end (frontend and backend) with React 19, Node.js, Express.js and MongoDB, integrating an AI model fallback chain, Firebase Auth and a Tailwind CSS v4 + Framer Motion dashboard.
+
+- **Freelance Web Developer** · 2025 – 2026  
+  - **Swastika Food & Beverages** ([Live](https://LIVE_LINK)): production e-commerce app with persistent cart, slug-based product catalog, recurring delivery subscription estimator and UPI/Card/NetBanking checkout (React 19, Tailwind CSS v4).
+  - **Roshani Beauty Salon** ([Live](https://LIVE_LINK)): responsive salon site with multi-field appointment booking, 6-category service catalog, Before/After gallery slider and testimonials (React 19, Tailwind CSS).
+
+---
+
+## 🏅 Competitive Programming & Achievements
+
+- 🎖️ Selected for **Specialist Programmer – L1 (Trainee)** at Infosys via HackWithInfy 2026
+- 🟦 **LeetCode Knight**, max rating 1934
+- 🌍 **TCS CodeVita Season 13:** Top 5.2% globally (rank 7,654 of 146,922), advanced to Round 2
+- ⭐ **CodeChef:** 3-star, max rating 1603
+- ⭐ **HackerRank:** 5-star in Problem Solving
+- 🇮🇳 **AINCAT 2026 (Naukri Campus):** All India Rank 2540, top 1% among 3.5+ lakh participants
+- 📈 750+ DSA problems solved across platforms, 37+ rated contests
+
+<!--
+RESEARCH SECTION (optional, currently hidden). Remove the comment markers to show it.
+
+## 📄 Research
+
+- **Electricity demand forecasting with LightGBM** (IEEE-format paper, in progress): add title, venue/status and link here.
+-->
 
 ---
 
@@ -61,6 +106,13 @@
 ---
 
 ## 🧰 Tech Stack
+
+**Languages:** Java · JavaScript · HTML · CSS · Python · C  
+**Frontend:** React.js · Next.js · Tailwind CSS · Vite · TypeScript  
+**Backend:** Node.js · Express.js · JWT  
+**Databases:** MongoDB · Mongoose  
+**Cloud & Tools:** AWS S3 · Git · GitHub · Postman · Netlify · Vercel  
+**Core CS:** Data Structures & Algorithms · OOP · Operating Systems
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
@@ -116,4 +168,3 @@
 
 
 <img src="https://hit.yhype.me/github/profile?account_id=191824558" alt="YHYPE_Profile Views" />
-
