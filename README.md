@@ -41,13 +41,13 @@
 
 ## 🚀 Featured Projects
 
-- 🎯 **dv.interview-AI** · [Live](https://LIVE_LINK) · [Code](https://github.com/siddhantshukla108/REPO_NAME)  
+- 🎯 **[dv.interview-AI](https://dv-interview-ai.netlify.app/)** · [Live](https://dv-interview-ai.netlify.app/) · [Code](https://github.com/siddhantshukla108/dv.interview-AI)  
   An AI mock interview platform with voice interaction, resume parsing, Technical/HR modes and per-answer scoring, plus a live coding editor and a credits system. Built with React 19, Node.js, MongoDB and OpenRouter.
 
-- 🎯 **[Satya Sanatan Charcha](https://satya-sanatan-charcha.netlify.app/)** · [Live](https://satya-sanatan-charcha.netlify.app/) · [Code](https://github.com/siddhantshukla108/REPO_NAME)  
+- 🎯 **[Satya Sanatan Charcha](https://satya-sanatan-charcha.netlify.app/)** · [Live](https://satya-sanatan-charcha.netlify.app/) · [Code](https://github.com/siddhantshukla108/Sanatan-Charcha-2.0)  
   A MERN community platform in 5 languages with JWT and Google OAuth login, a multi-channel discussion forum, a digital scripture library and an admin moderation panel.
 
-- 🎯 **[Gyan Manthan](https://gyan-manthan-one.vercel.app/)** · [Live](https://gyan-manthan-one.vercel.app/) · [Code](https://github.com/siddhantshukla108/REPO_NAME)  
+- 🎯 **[Gyan Manthan](https://gyan-manthan-one.vercel.app/)** · [Live](https://gyan-manthan-one.vercel.app/) · [Code](https://github.com/siddhantshukla108/Gyan-Manthan)  
   An AI reading companion that generates personalized reading plans across 5 plan types and 8 languages, with a progress-tracking dashboard. Built with React 19, Node.js, MongoDB and Firebase Auth.
 
 ---
@@ -89,13 +89,6 @@ RESEARCH SECTION (optional, currently hidden). Remove the comment markers to sho
 
 ## 🧰 Tech Stack
 
-**Languages:** Java · JavaScript · HTML · CSS · Python · C  
-**Frontend:** React.js · Next.js · Tailwind CSS · Vite · TypeScript  
-**Backend:** Node.js · Express.js · JWT  
-**Databases:** MongoDB · Mongoose  
-**Cloud & Tools:** AWS S3 · Git · GitHub · Postman · Netlify · Vercel  
-**Core CS:** Data Structures & Algorithms · OOP · Operating Systems
-
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="40"/></a>
@@ -117,6 +110,16 @@ RESEARCH SECTION (optional, currently hidden). Remove the comment markers to sho
   <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
   <a href="https://code.visualstudio.com/"><img class="tech-icon" src="https://skillicons.dev/icons?i=vscode" width="40"/></a>
   <a href="https://www.jetbrains.com/idea/"><img class="tech-icon" src="https://skillicons.dev/icons?i=idea" width="40"/></a>
+  <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" width="40"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a>
+  <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" width="40"/></a>
+  <a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel" width="40"/></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" width="40"/></a>
+  <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" width="40"/></a>
+  <a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="40"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" width="40"/></a>
+  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="40"/></a>
 </p>
 
 ---
